@@ -1,6 +1,6 @@
 ## Introduction
 
-Finalizing, and purchasing a house, especially if it's your first one, is a tough process. You'll have to research various  websites to see which locations match your expectations, has a good neighborhood, is surrounded by a bunch of good hangout spots, has good school zones for your kids, and much more etc. Even if everything fits well, then comes the house. The house you'd want to live in should satisfy all your requirements without much of a compromise. In order to tackle this, I've come up with this project where the user's can see potential areas in and around the city of Austin, TX where purchasing a house would be a good deal in terms of the aforementioned requirements/expectations. 
+Finalizing, and purchasing a house, especially if it's your first one, is a tough process. You'll have to research various  websites to see which locations match your expectations, has a good neighborhood, is surrounded by a bunch of good hangout spots, has good school zones for your kids, and much more etc. Even if everything fits well, then comes the house. The house you'd want to live in should satisfy all your requirements without much of a compromise. In order to tackle this, I've come up with this project where the user's can see potentially growing areas in and around the city of Austin, TX where purchasing a house would be a good deal in terms of the aforementioned requirements/expectations. 
 
 
 ## Data
